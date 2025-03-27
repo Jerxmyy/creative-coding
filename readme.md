@@ -12,5 +12,3 @@ npm install
 ```sh
 npm run dev
 ```
-
-### en cas de problème d'initialisation, allez voir sur ce lien : https://threejs.org/docs/#manual/en/introduction/Installation
